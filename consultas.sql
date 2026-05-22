@@ -1,3 +1,5 @@
+USE livrariadb;
+
 -- Listar todos os autores
 SELECT * FROM Autor;
 
